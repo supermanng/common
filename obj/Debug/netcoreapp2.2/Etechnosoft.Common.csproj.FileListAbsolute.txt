@@ -1,0 +1,9 @@
+C:\Users\USER\Documents\Project\Etechnosoft.Common\obj\Debug\netcoreapp2.2\Etechnosoft.Common.csprojAssemblyReference.cache
+C:\Users\USER\Documents\Project\Etechnosoft.Common\obj\Debug\netcoreapp2.2\Etechnosoft.Common.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Project\Etechnosoft.Common\obj\Debug\netcoreapp2.2\Etechnosoft.Common.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Project\Etechnosoft.Common\obj\Debug\netcoreapp2.2\Etechnosoft.Common.AssemblyInfo.cs
+C:\Users\USER\Documents\Project\Etechnosoft.Common\bin\Debug\netcoreapp2.2\Etechnosoft.Common.deps.json
+C:\Users\USER\Documents\Project\Etechnosoft.Common\bin\Debug\netcoreapp2.2\Etechnosoft.Common.dll
+C:\Users\USER\Documents\Project\Etechnosoft.Common\bin\Debug\netcoreapp2.2\Etechnosoft.Common.pdb
+C:\Users\USER\Documents\Project\Etechnosoft.Common\obj\Debug\netcoreapp2.2\Etechnosoft.Common.dll
+C:\Users\USER\Documents\Project\Etechnosoft.Common\obj\Debug\netcoreapp2.2\Etechnosoft.Common.pdb
